@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8b1fa59-3c13-4497-9069-9a58fed047d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/model/Roba.java" afterPath="$PROJECT_DIR$/src/main/java/model/Roba.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zadatak1KreiranjeTabela.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Zadatak1KreiranjeTabela.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="70" />
+            <state relative-caret-position="357">
+              <caret line="26" column="53" lean-forward="false" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Roba.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Roba.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Roba.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="512">
@@ -572,12 +572,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Avion.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Roba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
       </list>
     </option>
   </component>
@@ -1004,16 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1096,6 +1086,16 @@
             <element signature="e#1475#1476#0" expanded="true" />
             <element signature="e#1516#1517#0" expanded="true" />
             <element signature="e#1550#1551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="53" lean-forward="false" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
